@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.e00e372e.css",
-    "main.js": "./static/js/main.f2a24119.js",
+    "main.css": "./static/css/main.c7047350.css",
+    "main.js": "./static/js/main.493bc309.js",
     "static/js/453.448ca25f.chunk.js": "./static/js/453.448ca25f.chunk.js",
     "static/media/current_startups.png": "./static/media/current_startups.d74925f261ce3297c26a.png",
     "static/media/akash.png": "./static/media/akash.8a8bd9a7edc1ad11df7a.png",
@@ -34,12 +34,12 @@
     "static/media/shaun.jpg": "./static/media/shaun.b8350bef175890a5260c.jpg",
     "static/media/innovate_logo_white_bg.png": "./static/media/innovate_logo_white_bg.1b236dbdab1cdc6b70f1.png",
     "index.html": "./index.html",
-    "main.e00e372e.css.map": "./static/css/main.e00e372e.css.map",
-    "main.f2a24119.js.map": "./static/js/main.f2a24119.js.map",
+    "main.c7047350.css.map": "./static/css/main.c7047350.css.map",
+    "main.493bc309.js.map": "./static/js/main.493bc309.js.map",
     "453.448ca25f.chunk.js.map": "./static/js/453.448ca25f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e00e372e.css",
-    "static/js/main.f2a24119.js"
+    "static/css/main.c7047350.css",
+    "static/js/main.493bc309.js"
   ]
 }
