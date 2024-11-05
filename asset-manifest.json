@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.dc4f1ba7.css",
-    "main.js": "./static/js/main.92e9e1e8.js",
+    "main.css": "./static/css/main.b4299ac4.css",
+    "main.js": "./static/js/main.3dac069d.js",
     "static/js/453.448ca25f.chunk.js": "./static/js/453.448ca25f.chunk.js",
     "static/media/current_startups.png": "./static/media/current_startups.d74925f261ce3297c26a.png",
     "static/media/akash.png": "./static/media/akash.8a8bd9a7edc1ad11df7a.png",
@@ -34,12 +34,12 @@
     "static/media/shaun.jpg": "./static/media/shaun.b8350bef175890a5260c.jpg",
     "static/media/innovate_logo_white_bg.png": "./static/media/innovate_logo_white_bg.1b236dbdab1cdc6b70f1.png",
     "index.html": "./index.html",
-    "main.dc4f1ba7.css.map": "./static/css/main.dc4f1ba7.css.map",
-    "main.92e9e1e8.js.map": "./static/js/main.92e9e1e8.js.map",
+    "main.b4299ac4.css.map": "./static/css/main.b4299ac4.css.map",
+    "main.3dac069d.js.map": "./static/js/main.3dac069d.js.map",
     "453.448ca25f.chunk.js.map": "./static/js/453.448ca25f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc4f1ba7.css",
-    "static/js/main.92e9e1e8.js"
+    "static/css/main.b4299ac4.css",
+    "static/js/main.3dac069d.js"
   ]
 }
